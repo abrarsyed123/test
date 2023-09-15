@@ -5,4 +5,4 @@ provider "aws"{
 }
 resource "aws_s3_bucket" "test"{
   bucket = "my-first-terraform-bucket"
-}hjkj
+}
